@@ -17,4 +17,4 @@ BaqirNightHomework.java Code: 10230
 
 Factorial.java Code : 589
 
-3409
+jadvaleZarbBig.java Code : 3409
