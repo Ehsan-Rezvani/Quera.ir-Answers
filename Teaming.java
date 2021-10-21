@@ -1,6 +1,5 @@
 import java.util.*;
-
-public class EazyPeazy {
+public class Teaming {
     public static final Scanner in = new Scanner(System.in);
     public static void main(String[] args) {
         int TestCase = 3;
