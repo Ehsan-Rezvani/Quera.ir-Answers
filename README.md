@@ -10,3 +10,5 @@ yellowQ.java Code : 2885
 aEasyQuestin Code : 2885
 
 IceKeeper.java Code : 3429
+
+SingleDigit.java Code : 3539
