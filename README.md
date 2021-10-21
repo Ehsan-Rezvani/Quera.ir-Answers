@@ -12,3 +12,6 @@ aEasyQuestin Code : 2885
 IceKeeper.java Code : 3429
 
 SingleDigit.java Code : 3539
+
+BaqirNightHomework.java Code: 10230
+
