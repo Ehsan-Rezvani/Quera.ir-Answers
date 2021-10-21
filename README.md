@@ -6,3 +6,5 @@
 Teaming.java code : 80651 
 
 yellowQ.java Code : 2885
+
+aEasyQuestin Code : 2885
