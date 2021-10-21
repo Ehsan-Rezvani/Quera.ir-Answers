@@ -15,3 +15,5 @@ SingleDigit.java Code : 3539
 
 BaqirNightHomework.java Code: 10230
 
+Factorial.java Code : 589
+
